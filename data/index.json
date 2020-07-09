@@ -1,0 +1,31 @@
+[{
+		"热销爆款": [{
+				"price": "119.00",
+				"name": "42度天佑德青稞酒小黑125ml×4",
+				"img": "http://img6.zhongjiu.cn/resourceb2b2c/Storage/Shop/1/Products/95390/1_220.png"
+			},
+			{
+				"price": "228.00",
+				"name": "53°茅台酒股份公司王子酒 500ml",
+				"img": "http://img6.zhongjiu.cn/resourceb2b2c/Storage/Shop/1/Products/1319/1_220.png"
+			}
+		]
+	},
+	{
+		"白酒馆": [{
+				"img": "http://img6.zhongjiu.cn/resourceb2b2c/Storage/Plat/PageSettings/HomeFloor/2/floor_RSix_20170823170646638531.jpg"
+			},
+			{
+				"img":"http://img6.zhongjiu.cn/resourceb2b2c/Storage/Plat/PageSettings/HomeFloor/1/floor_RFour_20170823170519652778.jpg"
+			}
+		]
+	},
+	{
+		"葡萄酒馆":[{
+			"img":"http://img6.zhongjiu.cn/resourceb2b2c/Storage/Plat/PageSettings/HomeFloor/3/floor_RThree_20170823170812766282.jpg"
+		},
+		{
+			"img":"http://img6.zhongjiu.cn/resourceb2b2c/Storage/Plat/PageSettings/HomeFloor/3/floor_ScrollOne_20170823170812828682.jpg"
+		}]
+	}
+]
